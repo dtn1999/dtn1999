@@ -17,9 +17,7 @@ const danyls  = {
     backEnd: {
       js: ["Node", "Express", "Prisma"],
       java: [
-        "Springboot",
-        "Hibernate",
-        "MontiGem: Generator for enterprise app",
+        "Springboot", "Hibernate", "MontiGem: Generator for enterprise app",
       ],
     },
     frontend: {
