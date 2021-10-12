@@ -44,7 +44,8 @@ const danyls  = {
 <br/>
 
 <p style="display:flex;">
-<img height="180em" style="margin-right: 12px;" src="https://github-readme-stats.vercel.app/api?username=dtn1999&show_icons=true&theme=radical"/> 
+<img height="180em" style="margin-right: 12px;" src="https://github-readme-stats.vercel.app/api?username=dtn1999&show_icons=true&theme=radical&count_private=true)
+"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtn1999&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php"/>
 
 </p>
