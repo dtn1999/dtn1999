@@ -1,6 +1,6 @@
 <h2>Hi everyone 🙂, I'm Danyls Ngongang!</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://blog.jetbrains.com/wp-content/uploads/2020/08/debugger1.gif" width="230" height="" style="margin-top: 70px;">
 <p><em>Developer and Computer Student at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH Aachen University</a>
 </em></p>
 
