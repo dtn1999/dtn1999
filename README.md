@@ -1,6 +1,5 @@
 <h2>Hi everyone 🙂, I'm Danyls Ngongang!</h2>
 
-<img align='right' src="https://spidyhackx.github.io/cv/images/programmer.gif" width="230" height="" style="margin-top: 70px;">
 <p><em>Developer and Computer Student at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH Aachen University</a>
 </em></p>
 
@@ -35,13 +34,23 @@ const danyls = {
 };
 ```
 
+---
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
+<br/>
+
+### Github stats:
+
+<br/>
+
 <!--START_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtn1999&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtn1999&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/dtn1999/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
