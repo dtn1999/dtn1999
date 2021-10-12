@@ -1,5 +1,4 @@
 <h2>Hello 🙂, I'm Danyls </h2>
-<p>but you can call me <b>Dany</b></p>
 <p><em>Developer and Computer Student at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH Aachen University</a>
 </em></p>
 
