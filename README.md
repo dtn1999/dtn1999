@@ -48,12 +48,16 @@ const danyls = {
 
 <!--START_SECTION:waka-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtn1999&show_icons=true&theme=radical)
+<p style="display:flex;">
+<img height="180em" style="margin-right: 12px;" src="https://github-readme-stats.vercel.app/api?username=dtn1999&show_icons=true&theme=radical"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtn1999&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dtn1999&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/dtn1999/github-readme-stats)
+</p>
 
-<!--END_SECTION:waka-->
+---
 
-Last Updated on 12/10/2021
+## Last Updated on 12/10/2021
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+> ### NOTE:
+>
+> Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
