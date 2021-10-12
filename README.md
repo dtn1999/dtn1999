@@ -1,6 +1,6 @@
 <h2>Hi everyone 🙂, I'm Danyls Ngongang!</h2>
 
-<img align='right' src="https://cdn.dribbble.com/users/14374/screenshots/3147608/programer.gif" width="230" height="" style="margin-top: 70px;">
+<img align='right' src="https://spidyhackx.github.io/cv/images/programmer.gif" width="230" height="" style="margin-top: 70px;">
 <p><em>Developer and Computer Student at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH Aachen University</a>
 </em></p>
 
