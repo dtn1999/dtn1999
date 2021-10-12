@@ -9,8 +9,8 @@
 [![codechef](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danyls-ngongang.netlify.app/)](https://danyls-ngongang.netlify.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=dtn1999.dtn1999)
 
-```Typescript
-const danyls: Me = {
+```Javascript
+const danyls  = {
   pronouns: "He" | "Him",
   code: ["Java", "Javascript", "Typescript"],
   askMeAbout: ["web dev", "tech", "app dev 📱", "Basketball🏀"],
