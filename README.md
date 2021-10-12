@@ -9,8 +9,8 @@
 [![codechef](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danyls-ngongang.netlify.app/)](https://danyls-ngongang.netlify.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=dtn1999.dtn1999)
 
-```javascript
-const danyls = {
+```Typescript
+const danyls: Me = {
   pronouns: "He" | "Him",
   code: ["Java", "Javascript", "Typescript"],
   askMeAbout: ["web dev", "tech", "app dev 📱", "Basketball🏀"],
@@ -45,8 +45,6 @@ const danyls = {
 ### Github stats:
 
 <br/>
-
-<!--START_SECTION:waka-->
 
 <p style="display:flex;">
 <img height="180em" style="margin-right: 12px;" src="https://github-readme-stats.vercel.app/api?username=dtn1999&show_icons=true&theme=radical"/> 
