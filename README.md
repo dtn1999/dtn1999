@@ -1,9 +1,9 @@
-<h2>Hi everyone 🙂, I'm Danyls Ngongang!</h2>
-
+<h2>Hello 🙂, I'm Danyls </h2>
+<p>but you can call me <b>Dany</b></p>
 <p><em>Developer and Computer Student at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH Aachen University</a>
 </em></p>
 
-[![Linkedin: anmol](https://img.shields.io/badge/-danyls-blue?style=flat-square&logo=Linkedin&logoColor=white&link=danyls-ngongang-b811b11b3)](danyls-ngongang-b811b11b3)
+[![iuLinkedin: anmol](https://img.shields.io/badge/-danyls-blue?style=flat-square&logo=Linkedin&logoColor=white&link=danyls-ngongang-b811b11b3)](danyls-ngongang-b811b11b3)
 ![GitHub followers](https://img.shields.io/github/followers/dtn1999?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Codechef-3%20%E2%AD%90-lightgrey)](https://www.codechef.com/users/dtn99)
 [![codechef](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://danyls-ngongang.netlify.app/)](https://danyls-ngongang.netlify.app/)
