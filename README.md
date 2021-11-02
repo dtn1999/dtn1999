@@ -1,5 +1,5 @@
 <h2>Hello 🙂, I'm Danyls </h2>
-<p><em>Developer and Computer Student at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH Aachen University</a>
+<p><em>Developer and Computer Science Student at <a href="https://www.rwth-aachen.de/go/id/a/?lidx=1">RWTH Aachen University</a>
 </em></p>
 
 [![iuLinkedin: anmol](https://img.shields.io/badge/-danyls-blue?style=flat-square&logo=Linkedin&logoColor=white&link=danyls-ngongang-b811b11b3)](danyls-ngongang-b811b11b3)
