@@ -12,7 +12,7 @@
 const danyls  = {
   pronouns: "He" | "Him",
   code: ["Java", "Javascript", "Typescript"],
-  askMeAbout: ["web dev", "tech", "app dev 📱", "Basketball🏀"],
+  askMeAbout: ["web dev", "tech", "Backend Development With Spring boot", "Microservice Architecture", "Basketball🏀"],
   technologies: {
     backEnd: {
       js: ["Node", "Express", "Prisma"],
@@ -23,10 +23,10 @@ const danyls  = {
     frontend: {
       js: ["ReactJS", "React Native", "NextJS", "Angular (Beginner)"],
     },
-    devOps: ["Docker🐳"],
+    devOps: ["Docker🐳", "Docker Swarm"],
     databases: ["mongo", "PostgresSQL", "sqlite"],
   },
-  currentFocus: "Model driven development with montiGem and springboot",
+  currentFocus: "Using Model Driven Software Development to ease the development of microservice application using spring boot and Domain Driven Development",
   hobbies: ["Competitive Programming", "I am in love with 🏀"],
 };
 ```
